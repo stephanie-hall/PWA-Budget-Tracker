@@ -26,6 +26,7 @@ WHEN the user inputs a withdrawal or deposit
 THEN that will be shown on the page, and added to their transaction history when their connection is back online.
 
 ## Links
+
 [GitHub](https://github.com/stephanie-hall/PWA-Budget-Tracker)
 [Heroku](https://msu-hw18-pwa-budget-tracker.herokuapp.com/)
 
